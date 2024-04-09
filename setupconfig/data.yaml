@@ -1,0 +1,21 @@
+--- # YOLO_Classic
+name: YOLO_Classic
+version: 0.0.0
+pkg_suffix: yolocls
+data_paths: 
+  - vsensebox.data.detectors
+#
+--- # YOLO_Ultralytics
+name: YOLO_Ultralytics
+version: 0.0.0
+pkg_suffix: yoloult
+data_paths: 
+  - vsensebox.data.detectors
+#
+--- # DeepSORT
+name: DeepSORT
+version: 0.0.0
+pkg_suffix: deepsort
+data_paths: 
+  - vsensebox.data.trackers
+#

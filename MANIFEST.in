@@ -1,0 +1,4 @@
+include *.md *.in *.TXT LICENSE
+exclude *.cmd
+recursive-include vsensebox *
+recursive-exclude __pycache__ *
