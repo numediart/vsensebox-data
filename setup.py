@@ -17,7 +17,7 @@ def main():
     setup(
         name=pkg_name,
         version=version,
-        url="https://github.com/rathaumons/vsensebox-data",
+        url="https://github.com/numediart/vsensebox-data",
         license="GPL-3.0-or-later",
         description="Dynamic data packager for the supported detector/tracker of VSenseBox.",
         long_description=long_description,
