@@ -10,17 +10,17 @@
 
 ## Installation
 
-* `YOLO_Classic` | [License/Repo](https://github.com/AlexeyAB/darknet)
+* `YOLO_Classic` ([License](https://github.com/AlexeyAB/darknet))
     ```
     pip install https://github.com/numediart/vsensebox-data/releases/download/v0.0.0/vsensebox_data_yolocls-0.0.0-py3-none-any.whl
     ```
 
-* `YOLO_Ultralytics` | [License/Repo](https://github.com/ultralytics)
+* `YOLO_Ultralytics` ([License](https://github.com/ultralytics)) | YOLOv10 ([License](https://github.com/THU-MIG/yolov10))
     ```
     pip install https://github.com/numediart/vsensebox-data/releases/download/v0.0.0/vsensebox_data_yoloult-0.0.0-py3-none-any.whl
     ```
 
-* `DeepSORT` | [License/Repo](https://github.com/deshwalmahesh/yolov7-deepsort-tracking)
+* `DeepSORT` ([License](https://github.com/deshwalmahesh/yolov7-deepsort-tracking))
     ```
     pip install https://github.com/numediart/vsensebox-data/releases/download/v0.0.0/vsensebox_data_deepsort-0.0.0-py3-none-any.whl
     ```
