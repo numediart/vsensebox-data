@@ -15,7 +15,7 @@
 
 * `YOLO_Ultralytics` ([License](https://github.com/ultralytics/ultralytics)) | YOLOv10 ([License](https://github.com/THU-MIG/yolov10))
     ```
-    pip install https://github.com/numediart/vsensebox-data/releases/download/v0.0.2/vsensebox_data_yoloult-0.0.2-py3-none-any.whl
+    pip install https://github.com/numediart/vsensebox-data/releases/download/v0.0.3/vsensebox_data_yoloult-0.0.3-py3-none-any.whl
     ```
 
 * `DeepSORT` ([License](https://github.com/deshwalmahesh/yolov7-deepsort-tracking))
