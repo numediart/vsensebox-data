@@ -3,7 +3,7 @@
 * `vsensebox-data` can dynamically create individual data packages of the supported modules for [`VSenseBox`](https://github.com/numediart/vsensebox).
 * `vsensebox-data` relies on the configurations inside [`setupconfig`](setupconfig) in order to create individual Python wheels.
 * Only a few pretrained weight/model files are included in the prebuilt `.whl` [files on GitHub releases](https://github.com/numediart/vsensebox-data/releases).
-* The pretrained weight/model files are not included in the repo as they are too big (Over 1GB).
+* The pretrained weight/model files are not included in the repo as they are too big.
 * For `YOLO_Ultralytics`, you can manually download [all other models here](https://github.com/ultralytics/assets/releases).
 
 ## Installation
